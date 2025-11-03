@@ -15,14 +15,9 @@ Este diretório contém a interface web desenvolvida em **ReactJS**, consumindo 
 
 ## ⚙️ Instalação
 
-### ✅ 1. Instale as dependências
+### ✅ Instale as dependências
 ```bash
 npm install
-```
-
-## ✅ 2. Configure o .env do frontend
-```ini
-VITE_API_URL=http://127.0.0.1:8000/api
 ```
 
 ## ▶️ Executar a aplicação
