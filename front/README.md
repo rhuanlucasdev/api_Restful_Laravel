@@ -1,5 +1,3 @@
-# ✅ **📌 FRONTEND (ReactJS)**  
-
 # 🎨 Frontend — ReactJS
 
 Este diretório contém a interface web desenvolvida em **ReactJS**, consumindo a API Laravel via Axios.
